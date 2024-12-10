@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-11T03:27:11 NZDT" name="Default suite" finished-at="2024-12-11T03:28:52 NZDT" duration-ms="101105">
+    <groups>
+    </groups>
+    <test started-at="2024-12-11T03:27:11 NZDT" name="Default test" finished-at="2024-12-11T03:28:52 NZDT" duration-ms="101105">
+      <class name="vibhaPlanitTest.PlanitJupiterTest">
+        <test-method signature="SubmitContactDetailsAndVerifySuccessMessage()[pri:0, instance:vibhaPlanitTest.PlanitJupiterTest@6221a451]" started-at="2024-12-11T03:27:11 NZDT" name="SubmitContactDetailsAndVerifySuccessMessage" finished-at="2024-12-11T03:27:34 NZDT" duration-ms="23637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitContactDetailsAndVerifySuccessMessage -->
+        <test-method signature="SubmitContactDetailsAndVerifySuccessMessage()[pri:0, instance:vibhaPlanitTest.PlanitJupiterTest@6221a451]" started-at="2024-12-11T03:27:34 NZDT" name="SubmitContactDetailsAndVerifySuccessMessage" finished-at="2024-12-11T03:27:47 NZDT" duration-ms="12990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitContactDetailsAndVerifySuccessMessage -->
+        <test-method signature="SubmitContactDetailsAndVerifySuccessMessage()[pri:0, instance:vibhaPlanitTest.PlanitJupiterTest@6221a451]" started-at="2024-12-11T03:27:47 NZDT" name="SubmitContactDetailsAndVerifySuccessMessage" finished-at="2024-12-11T03:28:06 NZDT" duration-ms="19052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitContactDetailsAndVerifySuccessMessage -->
+        <test-method signature="SubmitContactDetailsAndVerifySuccessMessage()[pri:0, instance:vibhaPlanitTest.PlanitJupiterTest@6221a451]" started-at="2024-12-11T03:28:06 NZDT" name="SubmitContactDetailsAndVerifySuccessMessage" finished-at="2024-12-11T03:28:18 NZDT" duration-ms="11836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitContactDetailsAndVerifySuccessMessage -->
+        <test-method signature="SubmitContactDetailsAndVerifySuccessMessage()[pri:0, instance:vibhaPlanitTest.PlanitJupiterTest@6221a451]" started-at="2024-12-11T03:28:18 NZDT" name="SubmitContactDetailsAndVerifySuccessMessage" finished-at="2024-12-11T03:28:30 NZDT" duration-ms="11960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitContactDetailsAndVerifySuccessMessage -->
+        <test-method signature="VerifyContactPageErrorMessages()[pri:0, instance:vibhaPlanitTest.PlanitJupiterTest@6221a451]" started-at="2024-12-11T03:28:30 NZDT" name="VerifyContactPageErrorMessages" finished-at="2024-12-11T03:28:43 NZDT" duration-ms="12758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyContactPageErrorMessages -->
+        <test-method signature="verifyingCartTest()[pri:0, instance:vibhaPlanitTest.PlanitJupiterTest@6221a451]" started-at="2024-12-11T03:28:43 NZDT" name="verifyingCartTest" finished-at="2024-12-11T03:28:52 NZDT" duration-ms="8776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingCartTest -->
+      </class> <!-- vibhaPlanitTest.PlanitJupiterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
